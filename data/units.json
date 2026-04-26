@@ -1,0 +1,90 @@
+{
+    "knight":{
+        "level": 12,
+        "stars": 1,
+        "hitpoints": 1220,
+        "damage": 61,
+        "speed": 2,
+        "hit_speed": 1.66,
+        "range": 1,
+        "critical_chance": 0.15,
+        "gpoups": ["noble", "tank"]
+    },
+    "archers": {
+        "level": 11,
+        "stars": 1,
+        "hitpoints": 480,
+        "damage": 84,
+        "speed": 2,
+        "hit_speed": 1.25,
+        "range": 4,
+        "critical_chance": 0.15,
+        "gpoups": ["clan", "marksman"]
+    },
+    "goblins": {
+        "level": 11,
+        "stars": 1,
+        "hitpoints": 420,
+        "damage": 108,
+        "speed": 2,
+        "hit_speed": 1,
+        "range": 1,
+        "critical_chance": 0.15,
+        "gpoups": ["goblin", "assassin"]
+    },
+    "barbarians": {
+        "level": 11,
+        "stars": 1,
+        "hitpoints": 840,
+        "damage": 96,
+        "speed": 2,
+        "hit_speed": 1.25,
+        "range": 1,
+        "critical_chance": 0.15,
+        "gpoups": ["clan", "warrior"]
+    },
+    "skeleton_gragons": {
+        "level": 11,
+        "stars": 1,
+        "hitpoints": 600,
+        "damage": 96,
+        "speed": 2,
+        "hit_speed": 1.42,
+        "range": 4,
+        "critical_chance": 0.15,
+        "gpoups": ["unded", "dragon"]
+    },
+    "wizard": {
+        "level": 11,
+        "stars": 1,
+        "hitpoints": 462,
+        "damage": 92,
+        "speed": 2,
+        "hit_speed": 1.4,
+        "range": 4,
+        "critical_chance": 0.15,
+        "gpoups": ["fire", "hinder"]
+    },
+    "dart_goblin": {
+        "level": 11,
+        "stars": 1,
+        "hitpoints": 404,
+        "damage": 92,
+        "speed": 2,
+        "hit_speed": 0.83,
+        "range": 4,
+        "critical_chance": 0.15,
+        "gpoups": ["goblin", "marksman"]
+    },
+    "giant": {
+        "level": 11,
+        "stars": 1,
+        "hitpoints": 1269,
+        "damage": 92,
+        "speed": 4,
+        "hit_speed": 2.5,
+        "range": 1,
+        "critical_chance": 0.15,
+        "gpoups": ["titan", "superstar"]
+    }
+}

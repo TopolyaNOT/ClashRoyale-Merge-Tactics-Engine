@@ -1,0 +1,8 @@
+{
+    "royal_king":{
+        "level": 1,
+        "ability":{
+            "elixir_on_losing": [4, 8]
+        }
+    }
+}
